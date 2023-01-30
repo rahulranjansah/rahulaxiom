@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulaxiom
+- 👋 Hi, I’m @rahulranjansah
 - 👀 I’m interested in Data Analysis and Radio Astronomy
 - 🌱 I’m currently learning graph theory
 - 💞️ I’m looking to collaborate on analytical astronomy
